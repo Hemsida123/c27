@@ -1,0 +1,9 @@
+C27 BYGG – GITHUB PAGES
+
+Lägg hela paketets innehåll i repots rot. index.html är startfilen.
+Behåll assets, style.css, app.js och alla undermappar. Inget byggsteg behövs.
+103 sidor med tjänster, områden, artiklar och originalbilder ingår.
+
+Offertformuläret förbereder ett mejl till calle@c27byggab.se.
+Besökaren öppnar sitt e-postprogram och skickar själv.
+Telefon- och e-postlänkar fungerar direkt.
